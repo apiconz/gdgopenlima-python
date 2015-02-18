@@ -1,0 +1,1 @@
+{"runners":{"configs":{"system:/python/web/python27_gae1914":{"ram":0,"variables":{},"options":{}}},"default":"system:/python/web/python27_gae1914"},"description":"GDG Boomerang template for Google App Engine (Python)","type":"GAEPython","attributes":{}}
